@@ -1,0 +1,18 @@
+print('Add 7 things to this list')
+
+randlist = []
+
+randlist.append(input())
+print('next')
+randlist.append(input())
+print('next')
+randlist.append(input())
+print('next')
+randlist.append(input())
+print('next')
+randlist.append(input())
+print('next')
+randlist.append(input())
+print('next')
+randlist.append(input())
+print(randlist)
